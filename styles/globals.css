@@ -3,10 +3,8 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 500;
-  src: local(''), url('/asset/Poppins/Poppins-ExtraBold.ttf') format('ttf');
+  font-family: 'poppins';
+  src: url('../asset/Poppins/Poppins-Regular.ttf');
 }
 
 html,
